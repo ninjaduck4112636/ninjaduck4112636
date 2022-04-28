@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Devaiah aka @ninjaduck4112636
-- 👀 I’m interested in coding and Python is :heart:
+- 🐸 I’m interested in coding and Python is :heart:
 - 🦊 My Project: https://brotonrecord.netlify.app/
 - 🥝 How to reach me: nishandevaiah321@gmail.com (or) ninjaduck4112636@gmail.com
 - 🔥 My blog: https://devaiah.netlify.app/
