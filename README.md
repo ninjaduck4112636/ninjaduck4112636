@@ -3,6 +3,7 @@
 - 🦊 My Project: https://brotonrecord.netlify.app/
 - 🥝 How to reach me: nishandevaiah321@gmail.com (or) ninjaduck4112636@gmail.com
 - 🔥 My blog: https://devaiah.netlify.app/
+- 👨🏽‍💻 Programming Langage: C, C++, Java, Python, SQL, HTML, CSS, Javascript
 
 <!---
 ninjaduck4112636/ninjaduck4112636 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
