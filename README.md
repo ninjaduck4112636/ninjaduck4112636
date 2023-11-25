@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Devaiah aka @ninjaduck4112636
 - 🐸 I’m interested in coding and Python is :heart:
-- 👨‍💻 My website: https://devaiah.netlify.app/
+- ✌ My website: https://devaiah.netlify.app/
 - 🦊 My Project: 
 1. https://riblink.vercel.app/ 
 2. https://brotonrecord.netlify.app/
